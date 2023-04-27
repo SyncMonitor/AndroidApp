@@ -1,0 +1,17 @@
+<app-header-bar></app-header-bar>
+<ion-content [fullscreen]="true" class="page-content">
+  <h1>Sensori di parcheggio</h1>
+
+  <ion-accordion-group>
+    <ion-accordion value="sensore {{i}}" *ngFor="let parcheggio of parcheggi; index as i">
+      <ion-item slot="header">
+        <ion-label>{{addresses[i]}}</ion-label>
+      </ion-item>
+      <div class="ion-padding sensor" slot="content" *ngFor="let par of parcheggio; index as i" (click)="showMarker(par)">
+        Sensore: {{par.id}}
+        <ion-icon name="ellipse" [ngClass]="{'libero': !par.value , 'occupato': par.value}"></ion-icon>
+      </div>
+    </ion-accordion>
+  </ion-accordion-group>
+
+</ion-content>

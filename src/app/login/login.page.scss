@@ -1,0 +1,42 @@
+ion-content#login-page {
+    align-items: center;
+}
+
+#login-page h1 {
+    text-align: center;
+    margin-top: 20%;
+    font-size: 45px;
+}
+
+#login-page .enter-button{
+    margin-top: 30%;
+    text-align: center;
+    margin-right: 13%;
+    margin-left: 13%;
+}
+
+#login-page .enter-button ion-button{
+    --background: #FFA500;
+    --color: black;
+}
+
+#login-page div.icon{
+    text-align: center;
+}
+
+#login-page .p-icon{
+    transform: scale(3.5);
+    margin-top: 20%;
+}
+
+#login-page div.logo-synclab {
+    background-color: white;
+    text-align: center;
+    padding: 10%;
+    margin-top: 20%;
+}
+
+#login-page div.logo-synclab img {
+    transform: scale(1.5);
+}
+

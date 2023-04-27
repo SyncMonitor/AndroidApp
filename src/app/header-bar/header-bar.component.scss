@@ -1,0 +1,20 @@
+ion-header#app-header ion-toolbar{
+    --ion-background-color: #FFA500;
+    --ion-toolbar-background: #FFA500;
+    height: 100%;
+}
+
+ion-header#app-header{
+    --ion-background-color: #FFA500;
+}
+
+ion-header#app-header ion-title{
+    --color: black;
+    font-weight: 500;
+}
+
+ion-header#app-header .p-icon{
+    transform: scale(2);
+    margin-right: 5%;
+    color: black;
+}

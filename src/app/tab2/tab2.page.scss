@@ -1,0 +1,38 @@
+.page-content h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.page-content ion-icon{
+    transform: scale(1.5);
+    position: absolute;
+    right: 5%;
+}
+
+.page-content ion-icon.libero{
+    color: green;
+}
+
+.page-content ion-icon.occupato{
+    color: red;
+}
+
+.page-content ion-item, ion-accordion{
+    --color: black;
+    --background: #8D99AE;
+}
+
+.page-content div.sensor{
+    background-color: white;
+    color: black;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html, body, #map {
+  height: 100%;
+  width: 100vw;
+}

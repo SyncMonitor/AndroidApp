@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "fkSensorId": 1,
+        "latitude": "45.38904",
+        "longitude": "11.928577",
+        "address": "Padova Galleria Spagna",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.448244",
+        "stats": []
+    },
+    {
+        "id": 2,
+        "fkSensorId": 2,
+        "latitude": "45.389029",
+        "longitude": "11.928598",
+        "address": "Padova Galleria Spagna",
+        "value": true,
+        "lastUpdate": "2022-08-26T17:10:00.482483",
+        "stats": []
+    },
+    {
+        "id": 3,
+        "fkSensorId": 3,
+        "latitude": "45.389028",
+        "longitude": "11.928631",
+        "address": "Padova Galleria Spagna",
+        "value": false,
+        "lastUpdate": "2022-09-01T09:42:00.307712",
+        "stats": [
+            {
+                "id": 636,
+                "fkSensorId": 3,
+                "lastUpdate": "2022-09-01T09:42:00.294966",
+                "value": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "fkSensorId": 4,
+        "latitude": "45.392648",
+        "longitude": "11.904846",
+        "address": "Via Forcellini",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.487454",
+        "stats": []
+    },
+    {
+        "id": 5,
+        "fkSensorId": 5,
+        "latitude": "45.392618",
+        "longitude": "11.904963",
+        "address": "Via Forcellini",
+        "value": true,
+        "lastUpdate": "2022-09-01T09:42:00.346334",
+        "stats": [
+            {
+                "id": 637,
+                "fkSensorId": 5,
+                "lastUpdate": "2022-09-01T09:42:00.341121",
+                "value": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "fkSensorId": 6,
+        "latitude": "45.392622",
+        "longitude": "11.904921",
+        "address": "Via Forcellini",
+        "value": true,
+        "lastUpdate": "2022-09-01T12:20:00.277296",
+        "stats": [
+            {
+                "id": 641,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-09-01T12:20:00.266823",
+                "value": true
+            },
+            {
+                "id": 18,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:16:00.257024",
+                "value": false
+            },
+            {
+                "id": 19,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:24:00.105104",
+                "value": true
+            },
+            {
+                "id": 20,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:26:00.105104",
+                "value": false
+            },
+            {
+                "id": 21,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:28:00.105104",
+                "value": true
+            },
+            {
+                "id": 22,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:34:00.105104",
+                "value": false
+            },
+            {
+                "id": 23,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:44:00.105104",
+                "value": true
+            },
+            {
+                "id": 24,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T18:54:00.105104",
+                "value": false
+            },
+            {
+                "id": 25,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T19:24:00.105104",
+                "value": true
+            },
+            {
+                "id": 26,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T19:36:00.105104",
+                "value": false
+            },
+            {
+                "id": 27,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T19:48:00.105104",
+                "value": true
+            },
+            {
+                "id": 28,
+                "fkSensorId": 6,
+                "lastUpdate": "2022-08-26T22:24:00.105104",
+                "value": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "fkSensorId": 7,
+        "latitude": "45.407958",
+        "longitude": "11.872594",
+        "address": "Piazza Capitaniato",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.494007",
+        "stats": []
+    },
+    {
+        "id": 8,
+        "fkSensorId": 8,
+        "latitude": "45.407936",
+        "longitude": "11.872584",
+        "address": "Piazza Capitaniato",
+        "value": true,
+        "lastUpdate": "2022-09-01T09:42:00.361158",
+        "stats": [
+            {
+                "id": 638,
+                "fkSensorId": 8,
+                "lastUpdate": "2022-09-01T09:42:00.355724",
+                "value": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "fkSensorId": 9,
+        "latitude": "45.407913",
+        "longitude": "11.87258",
+        "address": "Piazza Capitaniato",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.497644",
+        "stats": []
+    },
+    {
+        "id": 10,
+        "fkSensorId": 10,
+        "latitude": "45.397848",
+        "longitude": "11.87508",
+        "address": "Prato della valle",
+        "value": true,
+        "lastUpdate": "2022-09-02T09:24:00.473672",
+        "stats": [
+            {
+                "id": 727,
+                "fkSensorId": 10,
+                "lastUpdate": "2022-09-02T09:24:00.455035",
+                "value": true
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "fkSensorId": 11,
+        "latitude": "45.397838",
+        "longitude": "11.875102",
+        "address": "Prato della valle",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.501353",
+        "stats": []
+    },
+    {
+        "id": 12,
+        "fkSensorId": 12,
+        "latitude": "45.397822",
+        "longitude": "11.875126",
+        "address": "Prato della valle",
+        "value": false,
+        "lastUpdate": "2022-08-26T17:10:00.50302",
+        "stats": []
+    },
+    {
+        "id": 13,
+        "fkSensorId": 13,
+        "latitude": "45.400546",
+        "longitude": "11.855238",
+        "address": "Via Sorio",
+        "value": false,
+        "lastUpdate": "2022-09-01T09:42:00.386249",
+        "stats": [
+            {
+                "id": 639,
+                "fkSensorId": 13,
+                "lastUpdate": "2022-09-01T09:42:00.380582",
+                "value": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "fkSensorId": 14,
+        "latitude": "45.400547",
+        "longitude": "11.855173",
+        "address": "Via Sorio",
+        "value": false,
+        "lastUpdate": "2022-09-01T09:42:00.39378",
+        "stats": [
+            {
+                "id": 640,
+                "fkSensorId": 14,
+                "lastUpdate": "2022-09-01T09:42:00.388888",
+                "value": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "fkSensorId": 15,
+        "latitude": "45.400546",
+        "longitude": "11.855015",
+        "address": "Via Sorio",
+        "value": true,
+        "lastUpdate": "2022-09-02T09:24:00.52844",
+        "stats": [
+            {
+                "id": 728,
+                "fkSensorId": 15,
+                "lastUpdate": "2022-09-02T09:24:00.522653",
+                "value": true
+            }
+        ]
+    }
+]
