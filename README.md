@@ -1,2 +1,2 @@
 # AndroidApp
-App for smar parking system
+App for smart parking system
